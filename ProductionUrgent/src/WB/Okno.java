@@ -35,7 +35,7 @@ import net.proteanit.sql.DbUtils;
 
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
- 
+  
 
 public class Okno extends JFrame {
 
